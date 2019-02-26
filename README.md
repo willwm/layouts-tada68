@@ -3,6 +3,10 @@ Selected layouts for the TADA68 (aka [Saber68](http://www.kbdist.com/)) keyboard
 
 
 
+[QMK Configurator: TADA68 ANSI](https://config.qmk.fm/#/tada68/LAYOUT_ansi)
+
+
+
 ## Related Repositories
 
 * https://github.com/ravicious/TADA68
@@ -16,6 +20,12 @@ Selected layouts for the TADA68 (aka [Saber68](http://www.kbdist.com/)) keyboard
 
 
 ## Firmware Programming
+
+### QMK Configurator
+
+[QMK Configurator: TADA68 ANSI](https://config.qmk.fm/#/tada68/LAYOUT_ansi)
+
+
 
 ### Review and Programming Tutorial: TADA68
 
@@ -56,4 +66,4 @@ Review, screenshots, and instructions on how to load new FLASH.BIN files:
     > - Toggle Modifier Key
     > - Macro
 
-  ​
+  
